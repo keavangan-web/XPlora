@@ -19,7 +19,7 @@ struct ContentView: View {
                             .font(.system(size: 40, weight: .bold))
                             .foregroundColor(.white)
                         
-                        Text("Discover more, turning ideas into life")
+                        Text("Discover more, turning aspirations into life")
                             .font(.footnote)
                             .foregroundColor(.white.opacity(0.9))
                             .multilineTextAlignment(.center)
